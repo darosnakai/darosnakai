@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Daros Nakai, and I'm a Business Analytics Honours student from UvA interested in Python and the usage of mathematical models in Finance. 
+
+- 📈 I have recently developed linear and non-linear ML models in Python for comparing Bitcoin and Traditional Markets, with the intention of predicting Bitcoin prices based on conventional markets, as well as finding the integration of this asset within financial markets. [You can check this project out here.](https://github.com/darosnakai/btc-modeling)
+- 🔭 I am currently working on developing ML models for predicting NYSE composite index prices based on commodities and other macroeconomic factors.
+
 <!--
 **darosnakai/darosnakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
