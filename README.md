@@ -4,9 +4,9 @@ My name is Daros Nakai, and I'm a Business Analytics Honours student from UvA in
 
 - 🤖 I have recently developed linear and non-linear ML models in Python for comparing Bitcoin and Traditional Markets, with the intention of predicting Bitcoin prices based on conventional markets, as well as finding the integration of this asset within financial markets. [You can check this project out here.](https://github.com/darosnakai/btc-modeling)
   
-- 📈 I have also been venturing in Quantitative Financial Analysis, and I recently developed [CAPM-Risk and Returns Analysis Mode](https://github.com/darosnakai/CAPM-Analysis-Tool). I am currently working on adding new features to the project, such as Rolling Beta Analysis , Risk-Adjusted Performance Metrics (Sharpe & Treynor) and Monte Carlo Simulations
+- 📈 I have also been venturing into Quantitative Financial Analysis, and recently developed a [CAPM-Risk and Returns Analysis Model](https://github.com/darosnakai/CAPM-Analysis-Tool). I am currently working on adding new features to the project, such as Rolling Beta Analysis , Risk-Adjusted Performance Metrics (Sharpe & Treynor) and Monte Carlo Simulations.
 
-- 🔭 I am passionate about finance, and am focused on improving my skills in financial modelling in python and in the future I will soon be working on more ambitious projeccts, such as Markowitz Portfolio Optimization and Black-Scholes Options Pricing Model.
+- 🔭 I am passionate about finance, and I am focused on improving my skills in financial modelling. I will soon be working on more ambitious projects, such as Markowitz Portfolio Optimization and Black-Scholes Options Pricing Model.
 
 <!--
 **darosnakai/darosnakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
