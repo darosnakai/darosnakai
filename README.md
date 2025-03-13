@@ -2,9 +2,9 @@
 
 My name is Daros Nakai, and I'm a Business Analytics (Honours) student from UvA interested in Python and the usage of mathematical models in Finance. I am passionate about finance, and I am focused on improving my skills in financial modelling and quantitative analysis.
 
-- 🤖 I have recently developed linear and non-linear ML models in Python for comparing Bitcoin and Traditional Markets, with the intention of predicting Bitcoin prices based on conventional markets, as well as analyzing integration betwen both markets. [You can check this project out here.](https://github.com/darosnakai/btc-modeling). In the future I will implement new features, especially in the Data Visualization part, focusing on creating plots, graphs and other figures to enhance analysis (Correlation Heatmaps, Prediction vs. Actual Plots, Rolling Correlation Analysis)
+- 🤖 I have recently developed Machine Learning Models in Python for comparing Bitcoin and Traditional Markets to predict Bitcoin prices based on conventional markets and to investigate the integration betwen both markets. [You can check this project out here.](https://github.com/darosnakai/btc-modeling) In the future I will implement new features, especially in the Data Visualization part, focusing on creating plots, graphs and other figures to enhance analysis (Correlation Heatmaps, Prediction vs. Actual Plots, Rolling Correlation Analysis);
   
-- 📈 I have also been venturing into Quantitative Financial Analysis, and recently developed a [CAPM-Risk and Returns Analysis Tool](https://github.com/darosnakai/CAPM-Analysis-Tool). A Plotly-Dash WebApp with features such as Beta and Alpha calculation with **OLS Regression**, **Rolling CAPM Analysis** (Beta, Alpha, R2) and **Risk-Adjusted Performance Metrics** (Sharpe & Treynor).
+- 📈 I have also been venturing into Quantitative Financial Analysis, and recently developed a [CAPM-Risk and Returns Analysis Tool](https://github.com/darosnakai/CAPM-Analysis-Tool). A Plotly-Dash WebApp with risk-analysis features, such as: Beta and Alpha calculation with **OLS Regression**, **Rolling CAPM Analysis** (Beta, Alpha, R2) and **Risk-Adjusted Performance Metrics** (Sharpe & Treynor);
 
 - 🔭 I am currently working on a Quantitative Portfolio Management Model based on the Markowitz Approach (Modern Portfolio Theory (MPT)).
 
