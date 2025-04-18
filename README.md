@@ -6,7 +6,7 @@ My name is Daros Nakai, and I'm a Business Analytics (Honours) student from UvA 
   
 - 📈 I have also been venturing into Quantitative Financial Analysis, and recently developed a [CAPM-Risk and Returns Analysis Tool](https://github.com/darosnakai/CAPM-Analysis-Tool). A Plotly-Dash WebApp with risk-analysis features, such as: Beta and Alpha calculation with **OLS Regression**, **Rolling CAPM Analysis** (Beta, Alpha, R2) and **Risk-Adjusted Performance Metrics** (Sharpe & Treynor);
 
-- 🔭 I am currently working on a Quantitative Portfolio Management Model based on the Markowitz Approach (Modern Portfolio Theory (MPT)).
+- 🔭 I am currently working on building a tool that calculates the Implied Volatility of the market using the Black-Scholes formula and how different input parameters affect an option price.
 
 <!--
 **darosnakai/darosnakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
